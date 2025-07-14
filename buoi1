@@ -1,0 +1,44 @@
+Câu 1 :
+- Python là ngôn ngữ thông dịch vì mã nguồn được chạy qua trình thông dịch (như CPython), không biên dịch trực tiếp thành mã máy như C/C++.
+Câu 2 :
+  Các kiểu dữ liệu :
+    - Text Type : str
+    - Numberic Types : int, float, complex
+    - Sequence Types : list, tuple, range
+    - Mapping Type : dict
+    - Set Types : set, frozenset
+    - Boolean Type : bool
+    - Binary Types : bytes, bytearray, memoryview
+  Toán tử :
+    - Arithmetic Operators : 
+      + " + " : phép cộng
+      + " - " : phép trừ
+      + " * " : phép nhân 
+      + " / " : phép chia
+      + " % " : chia lấy dư
+      + " // " : chia lấy nguyên 
+      + " ** " : mũ
+    - Relational Operators :
+      + " == " : so sánh bằng
+      + " != " : so sánh khác
+      + " > ", " < " : lớn hơn, nhỏ hơn
+      + " >= ", " <= " : lớn hơn bằng, nhỏ hơn bằng
+    = Assignment Operators :
+      = " = " : gắn bằng
+      - " += " : cộng bằng
+      - " -= " : trừ bằng
+      - " *= " : nhân bằng
+      - " /= " : chia bằng
+      - " %= " : chia lấy dư bằng
+      - " //= " : chia lấy nguyên bằng
+      - " **= " : mũ bằng
+    - Logical Operators :
+      = " and " : và
+      - " or " : hoặc
+      - " not " : phủ định
+    - Bitwise Operators 
+    - Indentity Operators
+    - Membership Operators
+      
+  
+  
