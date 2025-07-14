@@ -39,6 +39,22 @@ Câu 2 :
     - Bitwise Operators 
     - Indentity Operators
     - Membership Operators
-      
+  Điều kiện :
+    if condition :
+        # code here
+    elif another_condition :
+        # code here
+    else : 
+        # cod here
+  Vòng lặp :
+    - For loops :
+          for element in iterable :
+                # code here
+    - While loop : M
+          while condition : 
+                # code here
+    - Kiểu dữ liệu True, False:
+        + Kiểu bool chỉ có 2 giá trị: True và False
+        + Thường dùng trong so sánh và điều kiện
   
   
